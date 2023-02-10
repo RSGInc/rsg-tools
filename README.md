@@ -1,5 +1,5 @@
 # RSG Tools
-This repository is mean to document a comprehensive list of the tools RSG uses to facilitate its work. This document is meant not only for software and data engineering tools, but also tools that analysts and other employees use, and would like others to use.<br/><br/>
+This repository is meant to document a comprehensive list of the tools RSG uses to facilitate its work. This document is meant not only for software and data engineering tools, but also tools that analysts and other employees use, and would like others to use.<br/><br/>
 
 When updating this document please do so on a new branch, with a pull request, and with relevant people as the reviewers.
 
