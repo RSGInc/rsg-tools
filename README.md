@@ -1,5 +1,5 @@
 # RSG Tools
-This repository is meant to document a comprehensive list of the tools RSG uses to facilitate its work. This document is meant not only for software and data engineering tools, but also tools that analysts and other employees use, and would like others to use.<br/><br/>
+This repository is meant to document a comprehensive list of the tools RSG uses to facilitate its work. This document is meant not only for software and data engineering tools, but also tools that analysts and other employees use, and would like others to use.
 
 When updating this document please do so on a new branch, with a pull request, and with relevant people as the reviewers.
 
@@ -8,6 +8,7 @@ When updating this document please do so on a new branch, with a pull request, a
 |:---:|:---:|:---|
 |Black|https://black.readthedocs.io/en/stable/|The premier code formatter for Python.|
 |Ruff|https://github.com/charliermarsh/ruff|Crazy fast Python linting|
+|pylint|https://pylint.org more python linting|
 |Codecov|https://about.codecov.io/|Monitor your test coverage|
 |Pytest|https://docs.pytest.org/en/7.2.x/|Python unit testing made easy|
 |pre-commit|https://pre-commit.com/|Git hooks to enforce quality code before committing|
@@ -15,6 +16,7 @@ When updating this document please do so on a new branch, with a pull request, a
 |pydantic|https://docs.pydantic.dev/|Python data schema specification and validation|
 |Sphinx|https://www.sphinx-doc.org/en/master/|Easily build html sites from your Python library|
 |Mypy|https://mypy-lang.org/|Python static type checking|
+|Pyright|https://github.com/microsoft/pyright| faster static type checking|
 |GitHub Actions|https://github.com/features/actions|CI/CD through GitHub|
 |ChatGPT|https://chat.openai.com/chat|When I need someone to write code for me|
 
@@ -41,7 +43,6 @@ Tools that look cool that we need to experiment with
 |Podman|https://podman.io/|Docker but safer|
 |Polars|https://www.pola.rs/|Pandas but way faster|
 |GeoPolars|https://geopolars.org/|GeoPandas but faster|
-|Pyright|https://github.com/microsoft/pyright|Mypy but faster|
 |Great Expectations|https://github.com/great-expectations/great_expectations|Data validation, documentation, and profiling|
 |Starlite|https://starlite-api.github.io/starlite/latest/|Quickly build a lightweight API|
 |PDM|https://pdm.fming.dev/latest/|Python dependency manager without virtualenv|
