@@ -46,3 +46,10 @@ Tools that look cool that we need to experiment with
 |Great Expectations|https://github.com/great-expectations/great_expectations|Data validation, documentation, and profiling|
 |Starlite|https://starlite-api.github.io/starlite/latest/|Quickly build a lightweight API|
 |PDM|https://pdm.fming.dev/latest/|Python dependency manager without virtualenv|
+
+
+## Productivity
+General tools for better work!
+|Tool|Link to repo/website|Description|
+|:---:|:---:|:---|
+|Firefox - Simple Tab Groups|https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/|Easily manage groups of tabs. Great for managing multiple tabs for multiple projects|
